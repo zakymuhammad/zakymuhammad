@@ -1,4 +1,4 @@
-[![MasterHead](https://drive.google.com/file/d/1Rub7batMshr538Op6vIlxcMO8-GpQjEE/view)](https://zakymuhammad.io)
+[![MasterHead](https://github.com/zakymuhammad/zakymuhammad/blob/main/Blue%20Simple%20LinkedIn%20Banner.png)](https://zakymuhammad.io)
 
 <h1 align="center">Hi 👋, I'm Arzaky Muhamad F</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
