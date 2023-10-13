@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://zakymuhammad.io)
+[![MasterHead](https://www.canva.com/design/DAFxG7JCOnc/HMp0AuE7H5iybrn7JXPy7Q/edit?utm_content=DAFxG7JCOnc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)](https://zakymuhammad.io)
 
 <h1 align="center">Hi 👋, I'm Arzaky Muhamad F</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
